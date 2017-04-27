@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a test.change.i love you
+=======
+This is a test.change. in feature.
+>>>>>>> feature
